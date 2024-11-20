@@ -23,3 +23,4 @@ public class move_all_zero_to_end{
         }
     }
 }
+// video solution : https://youtu.be/Q2ynXrtGN8Y?si=hiCaSHpX5gaHA0Q9
