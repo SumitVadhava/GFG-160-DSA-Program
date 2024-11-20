@@ -26,3 +26,5 @@ public class Second_largest_element{
 
     }
 }
+
+// video solution : https://youtu.be/JoNs4m0QCig?si=nR3zlmOPlryjEoKJ
